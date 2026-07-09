@@ -2,4 +2,12 @@
 *.bo
 *.ba
 *.o
+mkTop_b_sim
+mkTop_v_sim
+mkTop.v
+build*
+*.so
+dump.vcd
 README.html
+.direnv/*
+.envrc
